@@ -1,0 +1,10 @@
+<!-- <script src="{{ url('') }}/public/assets/backend/js/pages/department/app.min.js"></script> -->
+<script src="{{ url('') }}/public/assets/backend/js/pages/department/table.min.js"></script>
+<script src="{{ url('') }}/public/assets/backend/js/pages/department/export-tables/dataTables.buttons.min.js"></script>
+<script src="{{ url('') }}/public/assets/backend/js/pages/department/export-tables/buttons.flash.min.js"></script>
+<script src="{{ url('') }}/public/assets/backend/js/pages/department/export-tables/jszip.min.js"></script>
+<script src="{{ url('') }}/public/assets/backend/js/pages/department/export-tables/pdfmake.min.js"></script>
+<script src="{{ url('') }}/public/assets/backend/js/pages/department/export-tables/vfs_fonts.js"></script>
+<script src="{{ url('') }}/public/assets/backend/js/pages/department/export-tables/buttons.html5.min.js"></script>
+<script src="{{ url('') }}/public/assets/backend/js/pages/department/export-tables/buttons.print.min.js"></script>
+<script src="{{ url('') }}/public/assets/backend/js/pages/department/tables/jquery-datatable.js"></script>
